@@ -1,0 +1,8 @@
+title: Optivem Utility Libraries (Python)
+description: Common utility libraries
+google_analytics: UA-63306472-4
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
