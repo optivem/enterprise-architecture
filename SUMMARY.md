@@ -12,9 +12,9 @@
 ## Artefacts
 
 * [Overview](artefacts/overview.md)
-* [Principles](artefacts/principles.md)
-* [Standards](artefacts/standards.md)
-* [Solutions](artefacts/solutions.md)
+* [Principles & Visions](artefacts/principles.md)
+* [Standards & Guidelines](artefacts/standards.md)
+* [Solutions & Roadmaps](artefacts/solutions.md)
 
 ## Appendix
 
