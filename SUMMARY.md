@@ -1,5 +1,8 @@
 # Table of contents
 
-* [README](README.md)
-* [Architecture](architecture.md)
+* [Introduction](README.md)
+* [Benefits](architecture.md)
+* [Artifacts](artifacts.md)
+* [References](references.md)
+* [License](license.md)
 
