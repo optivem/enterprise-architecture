@@ -1,6 +1,6 @@
 # References
 
-### Research Papers
+### References - Benefits
 
 {% embed url="https://www.mdpi.com/2071-1050/12/19/8237/pdf" %}
 
@@ -20,5 +20,18 @@
 
 {% embed url="https://searchcio.techtarget.com/definition/enterprise-architecture" %}
 
+### References - Artefacts
+
+{% embed url="http://kotusev.com/Six%20Types%20of%20Enterprise%20Architecture%20Artifacts.pdf" %}
+
+{% embed url="https://www.researchgate.net/publication/313302018\_Eight\_Essential\_Enterprise\_Architecture\_Artifacts" %}
+
+{% embed url="https://www.bcs.org/content-hub/eight-essential-enterprise-architecture-artifacts/" %}
+
+{% embed url="https://cdn.ymaws.com/www.globalaea.org/resource/resmgr/jea/2019\_articles/jea\_2019-1\_kutosev-final.pdf" %}
+
+\*\*\*\*
+
+  
 
 
