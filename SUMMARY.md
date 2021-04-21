@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [References](references.md)
 * [License](license.md)
 
 ## Benefits
@@ -14,4 +13,8 @@
 ## Artefacts
 
 * [Overview](artefacts/overview.md)
+
+---
+
+* [References](references.md)
 
