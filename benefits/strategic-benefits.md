@@ -24,11 +24,3 @@ Technology constantly evolves, and organizations need digital transformations to
 
 EA enables organizations to analyze requirements and impact of initiatives faster and right from the start, preventing any delays later. This is done through internal efficiencies which dramatically reduce time to value. Standardization helps reduce time for delivery of solutions.
 
-
-
-
-
-
-
-
-
