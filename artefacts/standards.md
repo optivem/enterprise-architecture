@@ -1,2 +1,2 @@
-# Standards & Guidelines
+# Standards
 

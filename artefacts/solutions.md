@@ -1,2 +1,2 @@
-# Solutions & Roadmaps
+# Solutions
 
