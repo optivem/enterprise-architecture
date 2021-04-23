@@ -16,7 +16,7 @@ Organizations faced the challenge of working with heterogenous systems and proce
 
 Enterprise Architecture helps us eliminate inefficient and redundant systems and processes. It can help us see redundancies in case of systems which are supporting the same or similar processes, and to consolidate them.
 
-### Portability, Interoperability and Integration
+### Increased Portability and  Interoperability
 
 Enterprise Architecture helps to make applications more portable and interoperable. It is then much easier to achieve overall system integration and oversight.
 

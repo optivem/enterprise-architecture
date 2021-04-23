@@ -1,6 +1,10 @@
 # Introduction
 
-## Introduction
 
-Welcome. This project is under construction.
+
+Benefits of Enterprise Architecture
+
+
+
+
 
