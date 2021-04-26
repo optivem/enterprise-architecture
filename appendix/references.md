@@ -28,7 +28,7 @@
 
 {% embed url="https://www.bcs.org/content-hub/eight-essential-enterprise-architecture-artifacts/" %}
 
-{% embed url="https://cdn.ymaws.com/www.globalaea.org/resource/resmgr/jea/2019\_articles/jea\_2019-1\_kutosev-final.pdf" %}
+{% embed url="https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment-ebook/dp/B07BV9QCP5" %}
 
 \*\*\*\*
 

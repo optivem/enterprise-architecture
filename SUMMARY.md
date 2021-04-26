@@ -13,7 +13,7 @@
 ## Artefacts
 
 * [Overview](artefacts/overview.md)
-* [Vision](artefacts/vision.md)
+* [Visions](artefacts/vision.md)
 * [Principles](artefacts/principles.md)
 * [Standards](artefacts/standards.md)
 * [Solutions](artefacts/solutions.md)
