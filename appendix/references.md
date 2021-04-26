@@ -30,6 +30,8 @@
 
 {% embed url="https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment-ebook/dp/B07BV9QCP5" %}
 
+{% embed url="http://eaonapage.com/Enterprise%20Architecture%20on%20a%20Page%20\(v1.4\).pdf" %}
+
 \*\*\*\*
 
   

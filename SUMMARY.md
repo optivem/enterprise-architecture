@@ -14,8 +14,8 @@
 
 * [Overview](artefacts/overview.md)
 * [Considerations](artefacts/principles.md)
-* [Visions](artefacts/vision.md)
 * [Standards](artefacts/standards.md)
+* [Visions](artefacts/vision.md)
 * [Solutions](artefacts/solutions.md)
 * [Roadmaps](artefacts/roadmaps.md)
 
