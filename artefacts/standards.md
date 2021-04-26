@@ -4,11 +4,25 @@ Standards are used to describe the goal technical rules, standards, guidelines, 
 
 ### Technical Reference Models
 
+They represent graphically the technologies used in the organizations, in order to manage and consolidate the technology portfolio.
 
+Example divisions are:
+
+* Applications and Integration
+* Databases
+* Security
+* Infrastructure and Networks
+
+For each of these, marking the status: Unsupported, current, Emerging.
 
 ### Guidelines
 
+Provide implementation-level prescriptions in certain technology-specific or domain-specific areas, so that architects and subject matter experts can share and reuse best practices.
 
+Guidelines have:
 
+* Name
+* Description
 
+Examples of guidelines are for deployment, Networking, Data Encryption, Interface Design, Development.
 
