@@ -13,6 +13,8 @@ Principles have the following:
 * Rationale
 * Implications
 
+![Source: eaonapage.com](../.gitbook/assets/csvlod_considerations_principles.png)
+
 ### Policies
 
 Policies prescribe norms, they are compulsory and restrictive. This may include privacy policites, audit, data security policies, data exchange policies, cloud hosting policies.
@@ -26,4 +28,8 @@ Policies:
 
 * Name
 * Description
+
+![Source: eaonapage.com](../.gitbook/assets/csvlod_considerations_policies.png)
+
+
 

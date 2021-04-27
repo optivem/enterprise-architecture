@@ -13,3 +13,7 @@ The artefact taxonomy consists of:
 
 In the following pages, we review the theory of the diagrams as well as providing practical examples.
 
+Image sources for the architectural diagrams have been taken based on [http://eaonapage.com/](http://eaonapage.com/).
+
+
+

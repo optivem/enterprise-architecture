@@ -33,6 +33,8 @@ Strategy Mapping:
 
 _Note: Capabilities are Level 1, Sub-Capabilities are Level 2_
 
+![Source: eaonapage.com](../.gitbook/assets/csvlod_visions_business_capability_models.png)
+
 ### Roadmaps
 
 Roadmaps help visualize the planned IT initiatives in certain business areas so that IT investments can be prioritized based on business importance. The represent tentative IT delivery schedules, with approximate start and end dates.
@@ -66,7 +68,7 @@ Exotic roadmaps:
 * Business Divisions: Division 1, Division 2, Division 2
 * Initiatives with the focus \(Applications, Information, Tools\) and short overview of the goals they attempt to achieve
 
-
+![Source: eaonapage.com](../.gitbook/assets/csvlod_visions_roadmaps.png)
 
 
 
