@@ -8,3 +8,7 @@ As an Executive, imagine how your organization would work if you could help your
 
 Our book is designed to help Executives transform their organizations through Enterprise Architecture to achieve excellent results - strategically, operationally and financially. Whilst there are many heavy-weight books regarding Enterprise Architecture, they sometimes go too deep into details and the big picture is forgotten - the essence of Enterprise Architecture. Here we hope to provide you with  the "essence" of Enterprise Architecture.
 
+### About the author
+
+Valentina Cupac has experience in Software Architecture, with a strong focus on creating architecture which optimizes long term development cost through maintainability and testability.
+

@@ -13,11 +13,12 @@
 ## Artefacts
 
 * [Overview](artefacts/overview.md)
-* [Considerations](artefacts/principles.md)
+* [Considerations](artefacts/considerations.md)
 * [Standards](artefacts/standards.md)
-* [Visions](artefacts/vision.md)
-* [Solutions](artefacts/solutions.md)
-* [Roadmaps](artefacts/roadmaps.md)
+* [Visions](artefacts/visions.md)
+* [Landscapes](artefacts/landscapes.md)
+* [Outlines](artefacts/outlines.md)
+* [Designs](artefacts/designs.md)
 
 ## Appendix
 
