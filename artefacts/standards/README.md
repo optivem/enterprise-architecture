@@ -7,9 +7,15 @@ Standards are used to describe the goal technical rules, standards, guidelines, 
 * **Content:** Global technical rules, standards, patterns and best practices relevant to IT systems
 * **Focus:** Do not focus on specific points in time or focus on the current state
 * **Format:** Can be expressed in various formats, often using strict notations
+
+
+
 * **Meaning:** Decisions on how all IT systems should be implemented and some facts on the current approaches and technologies
 * **Usage:** Developed collaboratively by architects and technical subject-matter experts and used to shape the architectures of all IT initiatives \(see Enterprise Architecture Practice on a Page\)
 * **Lifecycle:** Established on an as-necessary basis and updated according to the ongoing technology progress
+
+
+
 * **Role:** Proven reusable means for IT systems implementation
 * **Purpose:** Help achieve technical consistency, technological homogeneity and regulatory compliance
 * **Benefits:** Faster initiative delivery, reduced costs, risks and complexity
