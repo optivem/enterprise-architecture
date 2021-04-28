@@ -19,7 +19,29 @@ Example:
   * Decision 2
   * Decision 3
 
-TODO: VC: Continue 
+
+
+* Customer Groups
+  * Customer Group 1
+  * Customer Group 2
+* Architectures
+  * Current Architecture
+  * 3-Year Target Architecture
+
+
+
+* Architecture Changes
+  * Change 1
+  * Change 2
+  * Change 3
+* Business Outcomes
+  * Outcome 1
+  * Outcome 2
+  * Outcome 3
+* Customer Outcomes
+  * Outcome 1
+  * Outcome 2
+  * Outcome 3
 
 
 
