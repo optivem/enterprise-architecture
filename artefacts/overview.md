@@ -41,7 +41,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 
 #### Changes
 
- **Describe:** Specific proposed incremental changes to an organization  
+**Describe:** Specific proposed incremental changes to an organization  
 **Scope:** Narrow, limited to separate IT initiatives or projects  
 **Format:** Mix of textual and graphical  
 **Question:** What exactly are we going to change right now?  
@@ -53,7 +53,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 
 #### Business-Focused
 
- **Language:** Technology-neutral business language  
+**Language:** Technology-neutral business language  
 **Domains:** Business domain and often other relevant domains at a high level  
 **Format:** Brief, intuitive, largely informal and include only the most essential information  
 **Stakeholders:** Business leaders and architects  
@@ -62,7 +62,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 
 #### IT-Focused
 
- **Language:** Technical IT-specific language  
+**Language:** Technical IT-specific language  
 **Domains:** Various technical domains and sometimes also business domain  
 **Format:** Can be voluminous, formal, use strict notations and include comprehensive details  
 **Stakeholders:** Architects and other IT specialists  
