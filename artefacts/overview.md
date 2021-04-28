@@ -15,27 +15,11 @@ In the following pages, we review the theory of the diagrams as well as providin
 
 ![Source: eaonapage.com ](../.gitbook/assets/csvlod_enterprise_architecture_artefacts.png)
 
+### 
 
+### What EA Artefacts Describe?
 
-### Business-Focused
-
- **Language:** Technology-neutral business language  
-**Domains:** Business domain and often other relevant domains at a high level  
-**Format:** Brief, intuitive, largely informal and include only the most essential information  
-**Stakeholders:** Business leaders and architects  
-**Role:** Communication interfaces between business and IT  
-**Purpose:** Help business leaders manage IT
-
- **Language:** Technical IT-specific language  
-**Domains:** Various technical domains and sometimes also business domain  
-**Format:** Can be voluminous, formal, use strict notations and include comprehensive details  
-**Stakeholders:** Architects and other IT specialists  
-**Role:** Internal IT tools invisible to business  
-**Purpose:** Help architects organize IT
-
-
-
-### Rules
+#### Rules
 
  **Describe:** General global rules defining an organization or its divisions  
 **Scope:** Very broad, often relate to an entire organization  
@@ -45,7 +29,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 **Role:** Basis for all other planning decisions  
 **Purpose:** Help achieve consistency and homogeneity of all planning decisions
 
-### Structures
+#### Structures
 
  **Describe:** High-level structures of an organization or its parts  
 **Scope:** Broad, often cover large areas of an organization  
@@ -55,7 +39,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 **Role:** High-level “maps” facilitating decision-making  
 **Purpose:** Help understand what changes are desirable and how to implement them
 
-### Changes
+#### Changes
 
  **Describe:** Specific proposed incremental changes to an organization  
 **Scope:** Narrow, limited to separate IT initiatives or projects  
@@ -65,21 +49,29 @@ In the following pages, we review the theory of the diagrams as well as providin
 **Role:** Tactical plans of an organization  
 **Purpose:** Help plan separate changes in detail
 
+### How EA Artefacts Describe?
 
+#### Business-Focused
 
+ **Language:** Technology-neutral business language  
+**Domains:** Business domain and often other relevant domains at a high level  
+**Format:** Brief, intuitive, largely informal and include only the most essential information  
+**Stakeholders:** Business leaders and architects  
+**Role:** Communication interfaces between business and IT  
+**Purpose:** Help business leaders manage IT
 
+#### IT-Focused
 
+ **Language:** Technical IT-specific language  
+**Domains:** Various technical domains and sometimes also business domain  
+**Format:** Can be voluminous, formal, use strict notations and include comprehensive details  
+**Stakeholders:** Architects and other IT specialists  
+**Role:** Internal IT tools invisible to business  
+**Purpose:** Help architects organize IT
 
+### Taxonomy
 
-
-
-
-
-
-
-
-
-### Considerations
+#### Considerations
 
 **Content:** Global conceptual rules and fundamental considerations important for business and relevant to IT  
 **Focus:** Do not focus on specific points in time or focus on the long-term future  
@@ -93,7 +85,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 **Purpose:** Help achieve the agreement on basic principles, values, directions and aims  
 **Benefits:** Improved overall consistency between business and IT
 
-### Standards
+#### Standards
 
  **Content:** Global technical rules, standards, patterns and best practices relevant to IT systems  
 **Focus:** Do not focus on specific points in time or focus on the current state  
@@ -107,9 +99,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 **Purpose:** Help achieve technical consistency, technological homogeneity and regulatory compliance  
 **Benefits:** Faster initiative delivery, reduced costs, risks and complexity
 
-
-
-### Visions
+#### Visions
 
  **Content:** High-level conceptual descriptions of an organization from the business perspective  
 **Focus:** Often focus on the long-term future up to 3-5 years ahead  
@@ -123,7 +113,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 **Purpose:** Help achieve the alignment between IT investments and long-term business outcomes  
 **Benefits:** Improved strategic effectiveness of IT investments
 
-### Landscapes
+#### Landscapes
 
  **Content:** High-level technical descriptions of the organizational IT landscape  
 **Focus:** Often focus on the current state  
@@ -139,7 +129,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 
 
 
-### Outlines
+#### Outlines
 
  **Content:** High-level descriptions of separate IT initiatives understandable to business leaders  
 **Focus:** Usually focus on the mid-term future up to 1-2 years ahead  
@@ -157,7 +147,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 
 
 
-### Designs
+#### Designs
 
  **Content:** Detailed technical and functional descriptions of separate IT projects actionable for project teams  
 **Focus:** Usually focus on the short-term future up to 1 year ahead  
