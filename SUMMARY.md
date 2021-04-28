@@ -14,8 +14,11 @@
 ## EA Artefacts <a id="artefacts"></a>
 
 * [Overview](artefacts/overview.md)
-* [Considerations](artefacts/considerations.md)
-* [Standards](artefacts/standards.md)
+* [Considerations](artefacts/considerations/README.md)
+  * [Principles](artefacts/considerations/principles.md)
+  * [Policies](artefacts/considerations/policies.md)
+* [Standards](artefacts/standards/README.md)
+  * [Technical Reference Models](artefacts/standards/technical-reference-models.md)
 * [Visions](artefacts/visions.md)
 * [Landscapes](artefacts/landscapes.md)
 * [Outlines](artefacts/outlines.md)

@@ -16,28 +16,7 @@ Standards are used to describe the goal technical rules, standards, guidelines, 
 **Purpose:** Help achieve technical consistency, technological homogeneity and regulatory compliance  
 **Benefits:** Faster initiative delivery, reduced costs, risks and complexity
 
-### Technical Reference Models
-
-Structured graphical representations of all technologies used in an organization
-
-They represent graphically the technologies used in the organizations, in order to manage and consolidate the technology portfolio.
-
-For each of these, marking the status: Unsupported, Current, Emerging.
-
-![Source: eaonapage.com](../.gitbook/assets/csvlod_standards_technology_reference_models.png)
-
-
-
-
-
-Example divisions are:
-
-* Delivery
-* Channels
-* Applications and Integration
-* Databases and Information Management
-* Security and Access Management
-* Infrastructure and Networks
+### 
 
 ### IT Principles
 
@@ -50,7 +29,7 @@ Principle:
 * Name
 * Description
 
-![Source: eaonapage.com](../.gitbook/assets/csvlod_standards_it_principles.png)
+![Source: eaonapage.com](../../.gitbook/assets/csvlod_standards_it_principles.png)
 
 Examples:
 
@@ -83,7 +62,7 @@ Guidelines have:
 
 Examples of guidelines are for deployment, Networking, Data Encryption, Interface Design, Development.
 
-![Source: eaonapage.com](../.gitbook/assets/csvlod_standards_guidelines.png)
+![Source: eaonapage.com](../../.gitbook/assets/csvlod_standards_guidelines.png)
 
 Examples:
 
@@ -107,7 +86,7 @@ Examples:
 
 Generic reusable solutions to commonly occurring problems in the design of IT systems
 
-![](../.gitbook/assets/csvlod_standards_patterns.png)
+![](../../.gitbook/assets/csvlod_standards_patterns.png)
 
 Examples:
 
