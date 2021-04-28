@@ -18,6 +18,8 @@ Visions provide a high level conceptual overview of the organization from the bu
 
 ### Business Capability Models
 
+Structured graphical representations of all organizational business capabilities, their relationship and hierarchy
+
 Business Capacity Models help visualize organizational business capabilities, so that future IT investments can be focused on the most critical business areas. One page artefacts with color-coding, heatmapped representation.
 
 Simple representation:
@@ -49,7 +51,40 @@ _Note: Capabilities are Level 1, Sub-Capabilities are Level 2_
 
 ![Source: eaonapage.com](../.gitbook/assets/csvlod_visions_business_capability_models.png)
 
+Examples:
+
+* Business Strategy
+* Goals
+  * Goal 1
+  * Goal 2
+  * Goal 3
+* Capabilities
+  * Capability 1
+    * Capability 1.1
+    * Capability 1.2
+    * Capability 1.3
+    * Capability 1.4
+  * Capability 2
+    * Capability 2.1
+    * Capability 2.2
+    * Capability 2.3
+    * Capability 2.4
+  * Capability 3
+    * Capability 3.1
+    * Capability 3.2
+    * Capability 3.3
+    * Capability 3.4
+  * Capability 4
+    * Capability 4.1
+    * Capability 4.2
+    * Capability 4.3
+    * Capability 4.4
+
+
+
 ### Roadmaps
+
+Structured graphical views of all planned IT initiatives in specific business areas having direct business value
 
 Roadmaps help visualize the planned IT initiatives in certain business areas so that IT investments can be prioritized based on business importance. The represent tentative IT delivery schedules, with approximate start and end dates.
 
