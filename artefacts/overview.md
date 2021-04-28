@@ -69,46 +69,6 @@ In the following pages, we review the theory of the diagrams as well as providin
 **Role:** Internal IT tools invisible to business  
 **Purpose:** Help architects organize IT
 
-### Taxonomy
-
-#### Considerations
-
-\*\*\*\*
-
-#### Standards
-
-
-
-#### Visions
-
-
-
-#### Landscapes
-
-
-
-
-
-#### Outlines
-
-
-
-
-
-
-
-#### Designs
-
-
-
-
-
-
-
-
-
-
-
 ### References
 
 Source: [http://eaonapage.com/](http://eaonapage.com/)
