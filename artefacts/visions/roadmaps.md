@@ -29,7 +29,7 @@ Complex roadmaps:
 
 Exotic roadmaps:
 
-* Time: This Year, Next Year, futurre
+* Time: This Year, Next Year, future
 * Business Divisions: Division 1, Division 2, Division 2
 * Initiatives with the focus \(Applications, Information, Tools\) and short overview of the goals they attempt to achieve
 
