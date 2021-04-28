@@ -22,3 +22,10 @@
 * [Designs](artefacts/designs.md)
 * [References](artefacts/references.md)
 
+## EA Process <a id="process"></a>
+
+* [Overview](process/overview.md)
+* [Strategic Planning](process/strategic-planning.md)
+* [Technology Optimization](process/technology-optimization.md)
+* [Initiative Delivery](process/initiative-delivery.md)
+
