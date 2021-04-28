@@ -21,7 +21,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 
 #### Rules
 
- **Describe:** General global rules defining an organization or its divisions  
+**Describe:** General global rules defining an organization or its divisions  
 **Scope:** Very broad, often relate to an entire organization  
 **Format:** Often textual  
 **Question:** How do we work or want to work?  
@@ -31,7 +31,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 
 #### Structures
 
- **Describe:** High-level structures of an organization or its parts  
+**Describe:** High-level structures of an organization or its parts  
 **Scope:** Broad, often cover large areas of an organization  
 **Format:** Usually graphical  
 **Question:** What approximately do we have or want to have?  
