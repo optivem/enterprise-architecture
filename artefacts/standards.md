@@ -41,3 +41,7 @@ Examples of guidelines are for deployment, Networking, Data Encryption, Interfac
 
 ![Source: eaonapage.com](../.gitbook/assets/csvlod_standards_guidelines.png)
 
+### References
+
+Source: [http://eaonapage.com/](http://eaonapage.com/)
+
