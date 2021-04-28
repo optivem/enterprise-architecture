@@ -37,15 +37,11 @@
 
 ### Visions - Questions \(Architects\)
 
-What should IT deliver to the business in the long run?
-
-Where should future IT investments go?
-
-What types of IT investments should be made?
-
-When should IT investments be made?
-
-In what sequence should IT investments be made?
+* What should IT deliver to the business in the long run?
+* Where should future IT investments go?
+* What types of IT investments should be made?
+* When should IT investments be made?
+* In what sequence should IT investments be made?
 
 ### References
 
