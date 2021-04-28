@@ -31,3 +31,7 @@ Examples:
   * Guideline 9: Initialize Variables to Safe Defaults
   * Guideline 10: Validate All Incoming Data
 
+### References
+
+Source: Enterprise Architecture on a Page v1.4 \([http://eaonapage.com](http://eaonapage.com)\), Svyatoslav Kotusev \([http://kotusev.com](http://kotusev.com)\)
+

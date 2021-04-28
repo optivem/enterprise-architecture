@@ -19,3 +19,7 @@ Examples:
 * Principle 2: Single Customer View
 * Principle 3: Business Continuity
 
+### References
+
+Source: Enterprise Architecture on a Page v1.4 \([http://eaonapage.com](http://eaonapage.com)\), Svyatoslav Kotusev \([http://kotusev.com](http://kotusev.com)\)
+

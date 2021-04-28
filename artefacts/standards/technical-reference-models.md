@@ -21,3 +21,7 @@ Example divisions are:
 * Security and Access Management
 * Infrastructure and Networks
 
+### References
+
+Source: Enterprise Architecture on a Page v1.4 \([http://eaonapage.com](http://eaonapage.com)\), Svyatoslav Kotusev \([http://kotusev.com](http://kotusev.com)\)
+

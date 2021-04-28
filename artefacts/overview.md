@@ -71,5 +71,5 @@ In the following pages, we review the theory of the diagrams as well as providin
 
 ### References
 
-Source: [http://eaonapage.com/](http://eaonapage.com/)
+Source: Enterprise Architecture on a Page v1.4 \([http://eaonapage.com](http://eaonapage.com)\), Svyatoslav Kotusev \([http://kotusev.com](http://kotusev.com)\)
 

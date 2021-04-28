@@ -30,5 +30,5 @@ Visions provide a high level conceptual overview of the organization from the bu
 
 ### References
 
-Source: [http://eaonapage.com/](http://eaonapage.com/)
+Source: Enterprise Architecture on a Page v1.4 \([http://eaonapage.com](http://eaonapage.com)\), Svyatoslav Kotusev \([http://kotusev.com](http://kotusev.com)\)
 

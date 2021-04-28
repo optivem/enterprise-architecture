@@ -40,3 +40,7 @@ Example:
     * Policy 9: Use Only the PCI DSS Compliant Cloud
     * Policy 10: Do Not Store Health Data in the Cloud
 
+### References
+
+Source: Enterprise Architecture on a Page v1.4 \([http://eaonapage.com](http://eaonapage.com)\), Svyatoslav Kotusev \([http://kotusev.com](http://kotusev.com)\)
+

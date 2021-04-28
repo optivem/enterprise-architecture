@@ -29,3 +29,7 @@ Examples:
   * IT Principle 9: Place Public Systems in DMZ
   * IT Principle 10: Secure by Default
 
+### References
+
+Source: Enterprise Architecture on a Page v1.4 \([http://eaonapage.com](http://eaonapage.com)\), Svyatoslav Kotusev \([http://kotusev.com](http://kotusev.com)\)
+

@@ -62,3 +62,7 @@ Examples:
     * Capability 4.3
     * Capability 4.4
 
+### References
+
+Source: Enterprise Architecture on a Page v1.4 \([http://eaonapage.com](http://eaonapage.com)\), Svyatoslav Kotusev \([http://kotusev.com](http://kotusev.com)\)
+

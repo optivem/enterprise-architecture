@@ -16,11 +16,7 @@ Considerations are conceptual rules which describe the important considerations 
 **Purpose:** Help achieve the agreement on basic principles, values, directions and aims  
 **Benefits:** Improved overall consistency between business and IT
 
-### 
-
-### 
-
 ### References
 
-Source: [http://eaonapage.com/](http://eaonapage.com/)
+Source: Enterprise Architecture on a Page v1.4 \([http://eaonapage.com](http://eaonapage.com)\), Svyatoslav Kotusev \([http://kotusev.com](http://kotusev.com)\)
 
