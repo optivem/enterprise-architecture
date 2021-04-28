@@ -1,9 +1,5 @@
 # Technical Reference Models
 
-
-
-### Technical Reference Models
-
 Structured graphical representations of all technologies used in an organization
 
 They represent graphically the technologies used in the organizations, in order to manage and consolidate the technology portfolio.
