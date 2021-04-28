@@ -21,13 +21,13 @@
 
 #### Actors & Artefacts
 
-Step 1: Initiation
+_**Step 1: Initiation**_
 
 * **Actors:** Business Leaders and Architects
 * **EA Artifacts:** Outlines, e.g. Solution Overviews and Options Assessments \(see Enterprise Architecture on a Page\)
 * **Other Documents:** Business proposals and business cases
 
-Step 2: Implementation
+_**Step 2: Implementation**_
 
 * **Actors:** Architects and Project Teams
 * **EA Artifacts:** Designs, e.g. Solution Designs and Preliminary Solution Designs \(see Enterprise Architecture on a Page\)
@@ -35,13 +35,13 @@ Step 2: Implementation
 
 #### Content & Activities
 
-Step 1: Initiation
+_**Step 1: Initiation**_
 
 * **Content:** Analysis of possible solution implementation options, their explicit documentation in Outlines and official endorsement
 * **Activities:** Frequent discussions, presentations and approvals
 * **Techniques:** Business process modeling, customer journey mapping, return-on-investment \(ROI\) and architecture debt estimation
 
-Step 2: Implementation
+_**Step 2: Implementation**_
 
 * **Content:** Development of Designs based on Outlines and then their actual technical implementation
 * **Activities:** Daily collaborative work
