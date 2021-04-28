@@ -14,28 +14,6 @@
 **Purpose:** Help understand, analyze and modify the structure of the IT landscape  
 **Benefits:** Increased reuse and agility, reduced duplication and legacy
 
-### Landscape Diagrams
-
-Technical “boxes and arrows” schemes of different scopes and granularities describing the organizational IT landscape
-
-![Source: eaonapage.com](../.gitbook/assets/csvlod_landscapes_landscape_diagrams.png)
-
-### Inventories
-
-![](../.gitbook/assets/csvlod_landscapes_inventories.png)
-
-
-
-### Enterprise System Portfolios
-
-
-
-### IT Roadmaps
-
-
-
-
-
 ### References
 
 Source: [http://eaonapage.com/](http://eaonapage.com/)
