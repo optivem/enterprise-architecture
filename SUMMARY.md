@@ -9,6 +9,7 @@
 * [Operational Benefits](benefits/operational-benefits.md)
 * [Financial Benefits](benefits/financial-benefits.md)
 * [Compliance Benefits](benefits/compliance-benefits.md)
+* [References](benefits/references.md)
 
 ## Artefacts
 
@@ -19,6 +20,7 @@
 * [Landscapes](artefacts/landscapes.md)
 * [Outlines](artefacts/outlines.md)
 * [Designs](artefacts/designs.md)
+* [References](artefacts/references.md)
 
 ## Appendix
 
