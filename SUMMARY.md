@@ -38,11 +38,11 @@
   * [Solution Designs](artefacts/designs/solution-designs.md)
 * [References](artefacts/references.md)
 
-## EA Process <a id="process"></a>
+## EA Practice <a id="practice"></a>
 
-* [Overview](process/overview.md)
-* [Strategic Planning](process/strategic-planning.md)
-* [Technology Optimization](process/technology-optimization.md)
-* [Initiative Delivery](process/initiative-delivery.md)
-* [References](process/references.md)
+* [Overview](practice/overview.md)
+* [Strategic Planning](practice/strategic-planning.md)
+* [Technology Optimization](practice/technology-optimization.md)
+* [Initiative Delivery](practice/initiative-delivery.md)
+* [References](practice/references.md)
 
