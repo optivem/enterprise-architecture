@@ -28,4 +28,5 @@
 * [Strategic Planning](process/strategic-planning.md)
 * [Technology Optimization](process/technology-optimization.md)
 * [Initiative Delivery](process/initiative-delivery.md)
+* [References](process/references.md)
 
