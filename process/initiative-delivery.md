@@ -6,7 +6,7 @@
 
 ### Process
 
- **Goal:** Deliver optimal IT solutions for specific needs  
+**Goal:** Deliver optimal IT solutions for specific needs  
 **Question:** What is the best way to address the requested need and all the associated requirements?  
 **Focus:** Short-term and immediate future  
 **Instances:** Multiple, one instance for each active IT initiative, e.g. project or program  
@@ -15,13 +15,13 @@
 **Integration:** Integrated with regular project and program management activities, e.g. scoping, estimating, scheduling, resourcing and monitoring  
 **Timing:** Linked to the established initiative delivery phases and gates, e.g. scope, evaluate, plan, build, test and deploy
 
- **Inputs:** Specific business, and sometimes technical, needs  
+**Inputs:** Specific business, and sometimes technical, needs  
 **Outputs:** New working IT solutions  
 **Meaning:** Need-to-solution, i.e. convert a specific need into a concrete IT solution addressing this need in the most optimal manner
 
 Step 1: Initiation
 
- **Actors:** Business Leaders and Architects  
+**Actors:** Business Leaders and Architects  
 **EA Artifacts:** Outlines, e.g. Solution Overviews and Options Assessments \(see Enterprise Architecture on a Page\)  
 **Other Documents:** Business proposals and business cases  
   
@@ -31,7 +31,7 @@ Step 1: Initiation
 
 Step 2: Implementation
 
- **Actors:** Architects and Project Teams  
+**Actors:** Architects and Project Teams  
 **EA Artifacts:** Designs, e.g. Solution Designs and Preliminary Solution Designs \(see Enterprise Architecture on a Page\)  
 **Other Documents:** Business requirements and project management plans  
   
