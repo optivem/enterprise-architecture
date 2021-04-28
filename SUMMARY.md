@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Benefits
+## EA Benefits <a id="benefits"></a>
 
 * [Overview](benefits/overview.md)
 * [Strategic Benefits](benefits/strategic-benefits.md)
@@ -11,7 +11,7 @@
 * [Compliance Benefits](benefits/compliance-benefits.md)
 * [References](benefits/references.md)
 
-## Artefacts
+## EA Artefacts <a id="artefacts"></a>
 
 * [Overview](artefacts/overview.md)
 * [Considerations](artefacts/considerations.md)
