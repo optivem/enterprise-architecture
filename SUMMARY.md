@@ -27,12 +27,15 @@
   * [Target States](artefacts/visions/target-states.md)
   * [Roadmaps](artefacts/visions/roadmaps.md)
 * [Landscapes](artefacts/landscapes/README.md)
-  * [IT Roadmaps](artefacts/landscapes/it-roadmaps.md)
   * [Landscape Diagrams](artefacts/landscapes/landscape-diagrams.md)
   * [Inventories](artefacts/landscapes/inventories.md)
   * [Enterprise System Portfolios](artefacts/landscapes/enterprise-system-portfolios.md)
-* [Outlines](artefacts/outlines.md)
-* [Designs](artefacts/designs.md)
+  * [IT Roadmaps](artefacts/landscapes/it-roadmaps.md)
+* [Outlines](artefacts/outlines/README.md)
+  * [Solution Overviews](artefacts/outlines/solution-overviews.md)
+  * [Options Assessments](artefacts/outlines/options-assessments.md)
+* [Designs](artefacts/designs/README.md)
+  * [Solution Designs](artefacts/designs/solution-designs.md)
 * [References](artefacts/references.md)
 
 ## EA Process <a id="process"></a>
