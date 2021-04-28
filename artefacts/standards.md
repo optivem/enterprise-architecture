@@ -18,20 +18,30 @@ Standards are used to describe the goal technical rules, standards, guidelines, 
 
 ### Technical Reference Models
 
+Structured graphical representations of all technologies used in an organization
+
 They represent graphically the technologies used in the organizations, in order to manage and consolidate the technology portfolio.
 
-Example divisions are:
-
-* Applications and Integration
-* Databases
-* Security
-* Infrastructure and Networks
-
-For each of these, marking the status: Unsupported, current, Emerging.
+For each of these, marking the status: Unsupported, Current, Emerging.
 
 ![Source: eaonapage.com](../.gitbook/assets/csvlod_standards_technology_reference_models.png)
 
+
+
+
+
+Example divisions are:
+
+* Delivery
+* Channels
+* Applications and Integration
+* Databases and Information Management
+* Security and Access Management
+* Infrastructure and Networks
+
 ### IT Principles
+
+Global high-level IT-specific guidelines influencing all IT-related decisions and plans in an organization
 
 IT principles are high level IT guidelines which influence all IT decisions and plans.
 
@@ -42,7 +52,27 @@ Principle:
 
 ![Source: eaonapage.com](../.gitbook/assets/csvlod_standards_it_principles.png)
 
+Examples:
+
+* Applications
+  * IT Principle 1: Prefer Open Source Solutions
+  * IT Principle 2: Log All Main Operations
+* Data
+  * IT Principle 3: Use Scalable Storage
+  * IT Principle 4: Backup All Permanent Data
+* Integration
+  * IT Principle 5: Use Middleware for Integration
+  * IT Principle 6: Avoid Binary Integration Protocols
+* Infrastructure
+  * IT Principle 7: Host in the Cloud
+  * IT Principle 8: Dedicated Server for Each System
+* Security
+  * IT Principle 9: Place Public Systems in DMZ
+  * IT Principle 10: Secure by Default
+
 ### Guidelines
+
+IT-specific implementation-level prescriptions applicable in narrow technology-specific areas or domains
 
 Provide implementation-level prescriptions in certain technology-specific or domain-specific areas, so that architects and subject matter experts can share and reuse best practices.
 
@@ -54,6 +84,38 @@ Guidelines have:
 Examples of guidelines are for deployment, Networking, Data Encryption, Interface Design, Development.
 
 ![Source: eaonapage.com](../.gitbook/assets/csvlod_standards_guidelines.png)
+
+Examples:
+
+* Server Deployment Standards
+  * Guideline 1: Run Applications as OS Services
+  * Guideline 2: Store Deployment Packages in VCS
+* Network Protocol Standards
+  * Guideline 3: Avoid Using UDP Multicast
+  * Guideline 4: Prefer REST Over SOAP
+* Data Encryption Standards
+  * Guideline 5: Use 256-Bit Encryption Keys
+  * Guideline 6: Store MD5 Hashes of Passwords
+* Interface Design Guidelines
+  * Guideline 7: Use Web-Safe Colours
+  * Guideline 8: Place Menu in the Top Right Corner
+* Secure Coding Guidelines
+  * Guideline 9: Initialize Variables to Safe Defaults
+  * Guideline 10: Validate All Incoming Data
+
+### Patterns
+
+Generic reusable solutions to commonly occurring problems in the design of IT systems
+
+
+
+![](../.gitbook/assets/csvlod_standards_patterns.png)
+
+Examples:
+
+* Simple Failover Cluster
+
+
 
 ### References
 
