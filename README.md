@@ -12,3 +12,7 @@ Our book is designed to help Executives transform their organizations through En
 
 Valentina Cupac has experience in Software Architecture, with a strong focus on creating architecture which optimizes long term development cost through maintainability and testability.
 
+### Open book license
+
+Licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+

@@ -22,8 +22,3 @@
 * [Designs](artefacts/designs.md)
 * [References](artefacts/references.md)
 
-## Appendix
-
-* [References](appendix/references.md)
-* [License](appendix/license.md)
-
