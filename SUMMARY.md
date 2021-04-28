@@ -41,8 +41,14 @@
 ## EA Practice <a id="practice"></a>
 
 * [Overview](practice/overview.md)
-* [Strategic Planning](practice/strategic-planning.md)
-* [Technology Optimization](practice/technology-optimization.md)
-* [Initiative Delivery](practice/initiative-delivery.md)
+* [Strategic Planning](practice/strategic-planning/README.md)
+  * [Considerations Questionnaire](practice/strategic-planning/considerations-questionnaire.md)
+  * [Visions Questionnaire](practice/strategic-planning/visions-questionnaire.md)
+* [Technology Optimization](practice/technology-optimization/README.md)
+  * [Standards Questionnaire](practice/technology-optimization/standards-questionnaire.md)
+  * [Landscapes Questionnaire](practice/technology-optimization/landscapes-questionnaire.md)
+* [Initiative Delivery](practice/initiative-delivery/README.md)
+  * [Outlines Questionnaire](practice/initiative-delivery/outlines-questionnaire.md)
+  * [Designs Questionnaire](practice/initiative-delivery/designs-questionnaire.md)
 * [References](practice/references.md)
 
