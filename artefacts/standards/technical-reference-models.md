@@ -8,10 +8,6 @@ For each of these, marking the status: Unsupported, Current, Emerging.
 
 ![Source: eaonapage.com](../../.gitbook/assets/csvlod_standards_technology_reference_models.png)
 
-
-
-
-
 Example divisions are:
 
 * Delivery
