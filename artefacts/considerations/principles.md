@@ -11,7 +11,11 @@ Principles have the following:
 * Rationale
 * Implications
 
-![Source: eaonapage.com](../../.gitbook/assets/csvlod_considerations_principles.png)
+
+
+![](../../.gitbook/assets/ebooks-1-.jpg)
+
+
 
 Examples:
 
