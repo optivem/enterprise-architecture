@@ -15,9 +15,9 @@ In the following pages, we review the theory of the diagrams as well as providin
 
 
 
-![](../.gitbook/assets/ebooks%20%281%29.jpg)
+![](../.gitbook/assets/ebooks%20%282%29.jpg)
 
-### 
+
 
 ### What do EA Artefacts describe?
 
