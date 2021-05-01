@@ -13,11 +13,13 @@ The artefact taxonomy consists of:
 
 In the following pages, we review the theory of the diagrams as well as providing practical examples.
 
-![Source: eaonapage.com ](../.gitbook/assets/csvlod_enterprise_architecture_artefacts.png)
+
+
+![](../.gitbook/assets/ebooks%20%281%29.jpg)
 
 ### 
 
-### What EA Artefacts Describe?
+### What do EA Artefacts describe?
 
 #### Rules
 
@@ -49,7 +51,7 @@ In the following pages, we review the theory of the diagrams as well as providin
 **Role:** Tactical plans of an organization  
 **Purpose:** Help plan separate changes in detail
 
-### How EA Artefacts Describe?
+### How do EA Artefacts describe?
 
 #### Business-Focused
 
