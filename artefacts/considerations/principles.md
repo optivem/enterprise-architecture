@@ -2,11 +2,7 @@
 
 Global high-level guidelines influencing all decision-making and planning in an organization
 
-Principles are written high level guidelines which underpin decisions and enable Business Executives and IT architects to agree on the fundamentals. Principles define what is important for the organization, in a universal and abstract way.
-
-
-
-
+Principles are written high level guidelines which underpin decisions and enable Business Executives and IT architects to agree on the fundamentals. Principles define what is important for the organization, in a universal and abstract way. Principles outline, in an abstract way, what "should be" done.
 
 ![](../../.gitbook/assets/ebooks-1-.jpg)
 
@@ -23,7 +19,7 @@ Each principle has the following structure:
 * Rationale - justifies the reasons why this principle is adopted
 * Implications - describes the consequences of adhering to the principle
 
-### Examples
+### Example
 
 Principle 1: Standardized Business Processes
 

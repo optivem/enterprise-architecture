@@ -2,25 +2,27 @@
 
 Overarching organizational norms typically of a restrictive nature providing compulsory prescriptions in certain areas
 
-Policies prescribe norms, they are compulsory and restrictive. This may include privacy policies, audit, data security policies, data exchange policies, cloud hosting policies.
-
-Policy types:
-
-* External
-* Internal
-
-Policies:
-
-* Name
-* Description
-
-
+Policies prescribe norms, they are compulsory and restrictive. This may include privacy policies, audit, data security policies, data exchange policies, cloud hosting policies. Policies are generally precise formulations of what "should not" be done.
 
 ![Source: eaonapage.com](../../.gitbook/assets/csvlod_considerations_policies.png)
 
 
 
-Example:
+### Template
+
+Document contains policies.
+
+Policies may be categorized as follows:
+
+* External
+* Internal
+
+Each policy has the following:
+
+* Name - short name which identifies the policy
+* Description - description of the policy
+
+### Example
 
 * External
   * National Privacy Policies
