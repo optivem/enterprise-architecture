@@ -9,7 +9,11 @@ Principle:
 * Name
 * Description
 
-![Source: eaonapage.com](../../.gitbook/assets/csvlod_standards_it_principles.png)
+
+
+![](../../.gitbook/assets/3b_standards-_it-principlses.jpg)
+
+
 
 Examples:
 

@@ -4,9 +4,11 @@ Global high-level guidelines influencing all decision-making and planning in an 
 
 Principles are written high level guidelines which underpin decisions and enable Business Executives and IT architects to agree on the fundamentals. Principles define what is important for the organization, in a universal and abstract way. Principles outline, in an abstract way, what "should be" done.
 
-![](../../.gitbook/assets/ebooks-1-.jpg)
 
 
+![](../../.gitbook/assets/2a-considerations_principles.jpg)
+
+### 
 
 ### Template
 

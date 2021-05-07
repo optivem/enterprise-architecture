@@ -4,9 +4,11 @@ Overarching organizational norms typically of a restrictive nature providing com
 
 Policies prescribe norms, they are compulsory and restrictive. This may include privacy policies, audit, data security policies, data exchange policies, cloud hosting policies. Policies are generally precise formulations of what "should not" be done.
 
-![Source: eaonapage.com](../../.gitbook/assets/csvlod_considerations_policies.png)
 
 
+![](../../.gitbook/assets/2b-considerations_policies.jpg)
+
+### 
 
 ### Template
 

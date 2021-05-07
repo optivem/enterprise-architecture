@@ -6,7 +6,11 @@ They represent graphically the technologies used in the organizations, in order 
 
 For each of these, marking the status: Unsupported, Current, Emerging.
 
-![Source: eaonapage.com](../../.gitbook/assets/csvlod_standards_technology_reference_models.png)
+
+
+![](../../.gitbook/assets/3a-standards-_-tech-ref-models.jpg)
+
+
 
 Example divisions are:
 

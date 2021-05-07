@@ -11,7 +11,11 @@ Guidelines have:
 
 Examples of guidelines are for deployment, Networking, Data Encryption, Interface Design, Development.
 
-![Source: eaonapage.com](../../.gitbook/assets/csvlod_standards_guidelines.png)
+
+
+![](../../.gitbook/assets/3c-standards-_-guidelines.jpg)
+
+
 
 Examples:
 
