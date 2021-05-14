@@ -33,6 +33,10 @@ Exotic roadmaps:
 * Business Divisions: Division 1, Division 2, Division 2
 * Initiatives with the focus \(Applications, Information, Tools\) and short overview of the goals they attempt to achieve
 
+{% hint style="info" %}
+TODO: Update image below
+{% endhint %}
+
 ![Source: eaonapage.com](../../.gitbook/assets/csvlod_visions_roadmaps.png)
 
 ### Example

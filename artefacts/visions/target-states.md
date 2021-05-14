@@ -2,6 +2,10 @@
 
 High-level graphical descriptions of the desired long-term future state of an organization
 
+{% hint style="info" %}
+TODO: Update image below
+{% endhint %}
+
 ![](../../.gitbook/assets/csvlod_visions_target_states.png)
 
 Example:

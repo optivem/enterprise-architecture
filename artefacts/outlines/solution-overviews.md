@@ -2,6 +2,10 @@
 
 High-level descriptions of specific proposed IT solutions understandable to business leaders
 
+{% hint style="info" %}
+TODO: Update image below
+{% endhint %}
+
 ![Source: eaonapage.com](../../.gitbook/assets/csvlod_outlines_solution_overviews.png)
 
 ### References

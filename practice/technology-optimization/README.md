@@ -2,6 +2,10 @@
 
 ### Overview
 
+{% hint style="info" %}
+TODO: Update image below
+{% endhint %}
+
 ![](../../.gitbook/assets/ea_process_technology_optimization.png)
 
 ### Process

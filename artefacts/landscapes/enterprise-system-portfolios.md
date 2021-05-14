@@ -2,6 +2,10 @@
 
 Structured high-level mappings of all essential IT systems to relevant business capabilities
 
+{% hint style="info" %}
+TODO: Update image below
+{% endhint %}
+
 ![](../../.gitbook/assets/csvlod_landscapes_enterprise_system_portfolios.png)
 
 ### References

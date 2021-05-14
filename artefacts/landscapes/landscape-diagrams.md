@@ -2,6 +2,10 @@
 
 Technical “boxes and arrows” schemes of different scopes and granularities describing the organizational IT landscape
 
+{% hint style="info" %}
+TODO: Update image below
+{% endhint %}
+
 ![Source: eaonapage.com](../../.gitbook/assets/csvlod_landscapes_landscape_diagrams.png)
 
 ### References

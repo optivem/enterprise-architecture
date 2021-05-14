@@ -2,6 +2,10 @@
 
 Detailed technical and functional specifications of approved IT solutions actionable for project teams
 
+{% hint style="info" %}
+TODO: Update image below
+{% endhint %}
+
 ![Source: eaonapage.com](../../.gitbook/assets/csvlod_designs_solution_designs.png)
 
 ### References

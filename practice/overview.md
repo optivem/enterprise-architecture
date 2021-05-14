@@ -14,5 +14,5 @@ The core process and participants within EA practice, based on works of Svyatosl
 
 ### References
 
-Source: [http://eaonapage.com/](http://eaonapage.com/)
+Source: Enterprise Architecture Practice on a Page v1.1 \([http://eaonapage.com](http://eaonapage.com)\), Svyatoslav Kotusev \([http://kotusev.com](http://kotusev.com)\)
 

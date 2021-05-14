@@ -31,6 +31,10 @@ Strategy Mapping:
 
 _Note: Capabilities are Level 1, Sub-Capabilities are Level 2_
 
+{% hint style="info" %}
+TODO: Update image below
+{% endhint %}
+
 ![Source: eaonapage.com](../../.gitbook/assets/csvlod_visions_business_capability_models.png)
 
 Examples:
