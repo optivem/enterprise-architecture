@@ -10,9 +10,13 @@ Our book is designed to help Executives transform their organizations through En
 
 ### About the author
 
-Valentina Cupac has experience in Software Architecture, with a strong focus on creating architecture which optimizes long term development cost through maintainability and testability.
+Valentina Cupac is a Software Architect Consultant, with a strong focus on creating quality architecture which optimizes long term development cost through maintainability and testability. Valentina is a proponent of standardization within software architecture and software development, and sees Enterprise Architecture as both creating business value by synergizing Business and IT and at the same acting as a cost optimizer through standardization.
 
-### Open book license
+### Acknowledgements
 
-Licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This book is based on the conceptual model of Enterprise Architecture CSVLOD. We are grateful to Svyatoslav Kotusev for providing source architecture diagrams which were used for EA Artefacts and EA Practice in this book. We have chosen CSVLOD \(rather than TOGAF, Zachman\) because it is a pioneering systematic research-based model of established EA best practices based on industry research - a key differentiator in achieving successful EA.
+
+### License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
