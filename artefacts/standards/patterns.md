@@ -8,9 +8,17 @@ TODO: Update image below
 
 ![](../../.gitbook/assets/csvlod_standards_patterns.png)
 
-Examples:
+### Template
 
-* Simple Failover Cluster
+* Description: Describes the problem that the pattern intends to solve and how it solves it
+* Applicability: Describes the situations in which the pattern should and shouldn't be applied in
+* Rationate: Explains why the pattern is a recommended solution to the problem 
+
+### Example
+
+* Description: Simple Failover Cluster
+* Applicability: 
+* Rationale: 
 
 ### References
 
