@@ -23,23 +23,58 @@ Each principle has the following structure:
 
 ### Example
 
-Principle 1: Standardized Business Processes
-
-* Statement: Business processes should be standardized across all business units
-* Rationale: Process standardization enables the company to work in a unified way to optimize global efficiency and reduce costs globally
-* Implications: Process should be defined at a global level and supported by globally accessible applications used by all business units
-
-Principle 2: Single Customer View
-
-* Statement: Customer data should be shared between all business units
-* Rationale: Customer data sharing enables unification and avoids duplication so that all business units have access to the single correct source of customer data, as well as enabling customer analytics
-* Implications: Master version of customer data should be centralized and accessible to all business units
-
-Principle 3: Business Continuity
-
-* Statement: Critical business operations should never be interrupted, even in emergency cases
-* Rationale: Uninterrupted 24/7 operations ensure a smooth and trusted customer experience
-* Implications: Critical systems and databases should be geographically dispersed with replicas to ensure high system availability
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Principle</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Principle 1: Standardized Business Processes</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Statement: Business processes should be standardized across all business
+            units</li>
+          <li>Rationale: Process standardization enables the company to work in a unified
+            way to optimize global efficiency and reduce costs globally</li>
+          <li>Implications: Process should be defined at a global level and supported
+            by globally accessible applications used by all business units</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Principle 2: Single Customer View</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Statement: Customer data should be shared between all business units</li>
+          <li>Rationale: Customer data sharing enables unification and avoids duplication
+            so that all business units have access to the single correct source of
+            customer data, as well as enabling customer analytics</li>
+          <li>Implications: Master version of customer data should be centralized and
+            accessible to all business units</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Principle 3: Business Continuity</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Statement: Critical business operations should never be interrupted, even
+            in emergency cases</li>
+          <li>Rationale: Uninterrupted 24/7 operations ensure a smooth and trusted customer
+            experience</li>
+          <li>Implications: Critical systems and databases should be geographically
+            dispersed with replicas to ensure high system availability</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### References
 

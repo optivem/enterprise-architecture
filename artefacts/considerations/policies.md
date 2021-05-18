@@ -30,45 +30,40 @@ Each policy has the following:
 
 _**National Privacy Policies**_
 
-| _**Policy**_ | Description |
+| Policy | Description |
 | :--- | :--- |
 | Policy 1: Personal Data Must Be Stored Onshore | Personal data must be stored within the country where the person is currently residing, so this includes and data collection, processing and storage. |
 | Policy 2: Destroy Personal Data When Not Neede | Personal data must be destroyed for customers who have chosen to delete their accounts. |
 
 _**Sarbanes-Oxley Policies**_
 
-| _**Policy**_ | Description |
+| Policy | Description |
 | :--- | :--- |
 | Policy 3: Log All Accesses to Accounting Systems | Whenever a user accesses an account system, it is required that the system logs the timestamp, the user id as well as the action that was performed. |
-
-*  * Description: 
-* Policy 4: Retain Audit Trails and Emails for 5 Years
-  * Description: Audit trails and emails must be retained for 5 years, i.e. from the moment of creation \(audit trail timestamp, email timestamp\) up to 5 years from the timestamp, and after that they should be deleted.
+| Policy 4: Retain Audit Trails and Emails for 5 Years | Audit trails and emails must be retained for 5 years, i.e. from the moment of creation \(audit trail timestamp, email timestamp\) up to 5 years from the timestamp, and after that they should be deleted. |
 
 **INTERNAL POLICIES**
 
 _**Data Security Policies**_
 
-* Policy 5: No Sensitive Data on Mobile Devices
-  * Description: Sensitive data about customers and employees must not be stored on mobile.
-* Policy 6: Store Credit Cards in Encrypted Formats
-  * Description: Credit cards should be encrypted using the encryption algorithm &lt;insert name of encryption algorithm&gt; and CVV must not be stored.
+| Policy | Description |
+| :--- | :--- |
+| Policy 5: No Sensitive Data on Mobile Devices | Sensitive data about customers and employees must not be stored on mobile. |
+| Policy 6: Store Credit Cards in Encrypted Formats | Credit cards should be encrypted using the encryption algorithm &lt;insert name of encryption algorithm&gt; and CVV must not be stored. |
 
 _**Data Exchange Policies**_
 
-* Policy 7: Do Not Share Key Data with Third Parties
-  * Description: Data must not be shared with any third parties that the software is integrated with, nor shared with employees of any third party companies
-* Policy 8: Share Client Data with Trusted Partners
-  * Description: Client data can only be shared with the trusted partners, as listed in &lt;insert name of document&gt;
+| Policy | Description |
+| :--- | :--- |
+| Policy 7: Do Not Share Key Data with Third Parties | Data must not be shared with any third parties that the software is integrated with, nor shared with employees of any third party companies. |
+| Policy 8: Share Client Data with Trusted Partners | Client data can only be shared with the trusted partners, as listed in &lt;insert name of document&gt; |
 
 _**Cloud Hosting Policies**_
 
-* Policy 9: Use Only the PCI DSS Compliant Cloud
-  * Description: Only PCI DSS Compliant Cloud providers can be used - which currently includes: AWS, Azure, Google Cloud
-
-Policy 10: Only stored encrypted Health Data in the Cloud
-
-* Description: Based on HIPAA, any health data stored on the cloud must be enrypted using the algorithm &lt;insert name of encryption algorithm&gt;
+| Policy | Description |
+| :--- | :--- |
+| Policy 9: Use Only the PCI DSS Compliant Cloud | Only PCI DSS Compliant Cloud providers can be used - which currently includes: AWS, Azure, Google Cloud. |
+| Policy 10: Only stored encrypted Health Data in the Cloud | Based on HIPAA, any health data stored on the cloud must be enrypted using the algorithm &lt;insert name of encryption algorithm&gt;. |
 
 ### References
 
