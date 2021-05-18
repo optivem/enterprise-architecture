@@ -10,7 +10,9 @@
 
 ### **Books**
 
-{% embed url="https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment-ebook/dp/B07BV9QCP5" %}
+{% embed url="https://www.amazon.com/Practice-Enterprise-Architecture-Approach-Alignment-ebook/dp/B08T226GD9" %}
+
+### 
 
 ### Articles
 
