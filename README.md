@@ -14,7 +14,7 @@ Valentina Cupac is a Software Architect Consultant, with a strong focus on creat
 
 ### Acknowledgements
 
-This book is based on the conceptual model of Enterprise Architecture CSVLOD. We are grateful to Svyatoslav Kotusev \([http://kotusev.com/](http://kotusev.com/)\) for providing source architecture diagrams which were used for EA Artefacts and EA Practice in this book. We have chosen CSVLOD \(rather than TOGAF, Zachman\) because it is a pioneering systematic research-based model of established EA best practices based on industry research - a key differentiator in achieving successful EA.
+This book is based on the conceptual model of Enterprise Architecture CSVLOD. We are grateful to Svyatoslav Kotusev \([http://kotusev.com/](http://kotusev.com/)\) since we have used the ideas from his research, and we are grateful to him for providing the source architecture diagrams which were used for EA Artefacts and EA Practice in this book. We have chosen CSVLOD \(rather than TOGAF, Zachman\) because it is a pioneering systematic research-based model of established EA best practices based on industry research - a key differentiator in achieving successful EA.
 
 ### License
 
