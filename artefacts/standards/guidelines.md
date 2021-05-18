@@ -17,35 +17,35 @@ Guidelines have:
 
 ### Example
 
-Server Deployment Standards
+**Server Deployment Standards**
 
 | Guideline | Description |
 | :--- | :--- |
 | Guideline 1: Run Applications as OS Services |  |
 | Guideline 2: Store Deployment Packages in VCS |  |
 
-Network Protocol Standards
+**Network Protocol Standards**
 
 | Guideline | Description |
 | :--- | :--- |
 | Guideline 3: Avoid Using UDP Multicast |  |
 | Guideline 4: Prefer REST Over SOAP |  |
 
-Data Encryption Standards
+**Data Encryption Standards**
 
 | Guideline | Description |
 | :--- | :--- |
 | Guideline 5: Use 256-Bit Encryption Keys |  |
 | Guideline 6: Store MD5 Hashes of Passwords |  |
 
-Interface Design Guidelines
+**Interface Design Guidelines**
 
 | Guideline | Description |
 | :--- | :--- |
 | Guideline 7: Use Web-Safe Colours |  |
 | Guideline 8: Place Menu in the Top Right Corner |  |
 
-Secure Coding Guidelines
+**Secure Coding Guidelines**
 
 | Guideline | Description |
 | :--- | :--- |
