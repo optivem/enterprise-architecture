@@ -14,77 +14,14 @@ They represent graphically the technologies used in the organizations, in order 
 
 ### Example
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Model</th>
-      <th style="text-align:left">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Delivery</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>React - Current</li>
-          <li>Angular - Unsupported</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Channels</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>REST - Current</li>
-          <li>SOAP - Unsupported</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Applications and Integration</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Java Spring - Current</li>
-          <li>ASP.NET - Current</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Databases and Information Management</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>MySQL - Current</li>
-          <li>MSSQL - Unsupported</li>
-          <li>MongoDB - Emerging</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Security and Access Management</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Okta - Current</li>
-          <li>OAuth0 - Unsupported</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Infrastructure and Networks</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>AWS - Current</li>
-          <li>On premise - Unsupported</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Model | Current | Emerging | Unsupported |
+| :--- | :--- | :--- | :--- |
+| Delivery | React  | - | Angular  |
+| Channels | REST  | - | SOAP  |
+| Applications and Integration | Java Spring, ASP.NET | PHP | - |
+| Databases and Information Management | MySQL | MongoDB | MSSQL  |
+| Security and Access Management | Okta | - | OAuth0 |
+| Infrastructure and Networks | AWS, Azure | - | On premise |
 
 ### References
 
