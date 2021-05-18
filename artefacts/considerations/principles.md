@@ -8,8 +8,6 @@ Principles are written high level guidelines which underpin decisions and enable
 
 ![](../../.gitbook/assets/2a-considerations_principles.jpg)
 
-### 
-
 ### Template
 
 Document contains a list of principles.
