@@ -4,22 +4,46 @@ Structured graphical representations of all technologies used in an organization
 
 They represent graphically the technologies used in the organizations, in order to manage and consolidate the technology portfolio.
 
-For each of these, marking the status: Unsupported, Current, Emerging.
-
-
-
 ![](../../.gitbook/assets/3a-standards-_-tech-ref-models.jpg)
 
+### Template
 
+* Model
+* Technologies
+  * For each technology, marking the status: Unsupported, Current, Emerging.
 
-Example divisions are:
+### Example
 
-* Delivery
-* Channels
-* Applications and Integration
-* Databases and Information Management
-* Security and Access Management
-* Infrastructure and Networks
+Delivery
+
+* React - Current
+* Angular - Unsupported
+
+Channels
+
+* REST - Current
+* SOAP - Unsupported
+
+Applications and Integration
+
+* Java Spring - Current
+* ASP.NET - Current
+
+Databases and Information Management
+
+* MySQL - Current
+* MSSQL - Unsupported
+* MongoDB - Emerging
+
+Security and Access Management
+
+* Okta - Current
+* OAuth0 - Unsupported
+
+Infrastructure and Networks
+
+* AWS - Current
+* On premise - Unsupported
 
 ### References
 
