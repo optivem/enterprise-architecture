@@ -4,7 +4,11 @@ Structured graphical representations of all technologies used in an organization
 
 They represent graphically the technologies used in the organizations, in order to manage and consolidate the technology portfolio.
 
+
+
 ![](../../.gitbook/assets/3a-standards-_-tech-ref-models.jpg)
+
+### 
 
 ### Template
 

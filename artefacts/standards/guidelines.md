@@ -8,6 +8,8 @@ Provide implementation-level prescriptions in certain technology-specific or dom
 
 ![](../../.gitbook/assets/3c-standards-_-guidelines.jpg)
 
+### 
+
 ### Template
 
 Guidelines have:

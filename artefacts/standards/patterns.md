@@ -2,11 +2,11 @@
 
 Generic reusable solutions to commonly occurring problems in the design of IT systems
 
-{% hint style="info" %}
-TODO: Update image below
-{% endhint %}
 
-![](../../.gitbook/assets/csvlod_standards_patterns.png)
+
+![](../../.gitbook/assets/3c-standards-_-patterns%20%281%29.jpg)
+
+### 
 
 ### Template
 
