@@ -2,7 +2,7 @@
 
 ### Executive goals
 
-As an Executive, imagine how your organization would work if you could help your organization to shape a common vision, to remove silos and to bridge business and IT, and to help strengthen the organization at a strategic level. Imagine a highly streamlined organization, with high effectiveness and efficiency. Imagine drastic cost reduction and increased profitability as well as market value. Imagine centralized compliance and high security. These are all the key goals of Enterprise Architecture.
+As an Executive, imagine how your organization would work if you could help your organization to shape a common vision, to remove silos and to bridge business and IT, and to help strengthen the organization at a strategic level. Imagine a highly streamlined organization, with high effectiveness and efficiency. Imagine drastic cost reduction and increased profitability as well as market value. Imagine centralized compliance and high security. Enterprise Architecture helps unite Business and IT towards a common vision as well as helping IT to deliver initatives effectively.
 
 ### About the book
 
