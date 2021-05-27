@@ -203,9 +203,14 @@ Each principle has the following structure:
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Statement:</li>
-          <li>Rationale:</li>
-          <li>Implications:</li>
+          <li>Statement: Publish Systems should be placed in demilitarized zone (DMZ),
+            a subnetwork between the public internet and private networks</li>
+          <li>Rationale: Public systems should be in DMZ because it adds an additional
+            security layer by restricting access to sensitive servers and sensitive
+            data</li>
+          <li>Implications: Systems should be separated as public and private, whereby
+            private services should be in private networks and public services should
+            be in DMZ</li>
         </ul>
       </td>
     </tr>
@@ -214,7 +219,8 @@ Each principle has the following structure:
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Statement:</li>
+          <li>Statement: Systems should be secure by default, which means using the
+            most secure posssible configuration settings as the default</li>
           <li>Rationale:</li>
           <li>Implications:</li>
         </ul>
