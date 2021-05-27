@@ -8,7 +8,26 @@ TODO: Update image below
 
 ![](../../.gitbook/assets/csvlod_visions_target_states.png)
 
-Example:
+### Template
+
+* Business Drivers
+* Strategic Links
+* Key Decisions
+
+
+
+* Customer Groups
+* Architectures
+  * Current Architecture
+  * 3-Year Target Architecture
+
+
+
+* Architecture Changes
+* Business Outcomes
+* Customer Outcomes
+
+### Example
 
 * Business Drivers:
   * Driver 1
