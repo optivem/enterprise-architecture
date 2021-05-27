@@ -119,9 +119,12 @@ Each principle has the following structure:
       <td style="text-align:left">IT Principle 5: Use Middleware for Integration</td>
       <td style="text-align:left">
         <ul>
-          <li>Statement:</li>
-          <li>Rationale:</li>
-          <li>Implications:</li>
+          <li>Statement: Middleware should be used for integration with external systems
+            instead of custom development</li>
+          <li>Rationale: Using middleway for integration is more cost efficient and
+            avoids maintenance issues due to updates in external systems</li>
+          <li>Implications: When integrating with well-known systems, middleware solutions
+            should be investigated and preferred over custom integration development</li>
         </ul>
       </td>
     </tr>
@@ -130,9 +133,15 @@ Each principle has the following structure:
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Statement:</li>
-          <li>Rationale:</li>
-          <li>Implications:</li>
+          <li>Statement: HTTP protocols should be used instead of binary protocols due
+            to their universality, understandability and flexibility (and binary protocols
+            should only be used where extremely low latency is critical)</li>
+          <li>Rationale: HTTP / AMPQ protocols are more universal, flexible and developer-friendly
+            (lower development cost), whereas binary protocols offer much higher speed
+            but are harder to maintain</li>
+          <li>Implications: HTTP protocols should be used by default for integration,
+            and avoid binary protocols except in rare cases where low latetency is
+            a must</li>
         </ul>
       </td>
     </tr>
@@ -154,9 +163,11 @@ Each principle has the following structure:
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Statement:</li>
-          <li>Rationale:</li>
-          <li>Implications:</li>
+          <li>Statement: Applications should be hosted in the cloud rather than on-premise</li>
+          <li>Rationale: Cloud hosting is preferred because it enables easier scalability,
+            pay-as-you-go model rather than higher fixed costs and also higher relaibility</li>
+          <li>Implications: For any new applications, cloud hosting should be the default
+            choice and only using on-premise in exceptional circumstances</li>
         </ul>
       </td>
     </tr>
@@ -165,9 +176,12 @@ Each principle has the following structure:
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Statement:</li>
-          <li>Rationale:</li>
-          <li>Implications:</li>
+          <li>Statement: Dedicated Server (instead of Shared Server) should be used
+            for each system</li>
+          <li>Rationale: Dedicated Servers enable higher customizability and flexibility,
+            fuller control over CPU, RAM and disk storage</li>
+          <li>Implications: Each system should have a dedicated server, except for systems
+            which are very low resource intensive</li>
         </ul>
       </td>
     </tr>
