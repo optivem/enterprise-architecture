@@ -24,7 +24,7 @@
   * [Patterns](artefacts/standards/patterns.md)
 * [Visions](artefacts/visions/README.md)
   * [Business Capability Models](artefacts/visions/business-capability-models.md)
-  * [Target States](artefacts/visions/target-states.md)
+  * [Target State](artefacts/visions/target-states.md)
   * [Roadmaps](artefacts/visions/roadmaps.md)
 * [Landscapes](artefacts/landscapes/README.md)
   * [Landscape Diagrams](artefacts/landscapes/landscape-diagrams.md)
