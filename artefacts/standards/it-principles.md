@@ -221,8 +221,10 @@ Each principle has the following structure:
         <ul>
           <li>Statement: Systems should be secure by default, which means using the
             most secure posssible configuration settings as the default</li>
-          <li>Rationale:</li>
-          <li>Implications:</li>
+          <li>Rationale: Security needs to be built into software and hardware right
+            at the foundation</li>
+          <li>Implications: Highest level security settings should be used by default,
+            and any deviations should be justified and approved</li>
         </ul>
       </td>
     </tr>
