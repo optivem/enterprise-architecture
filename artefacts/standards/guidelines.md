@@ -38,21 +38,21 @@ Guidelines have:
 | Guideline | Description |
 | :--- | :--- |
 | Guideline 5: Use 256-Bit Encryption Keys | To ensure high security, 256-Bit encryption keys should be used since then the encryyption is almost impossible to crack |
-| Guideline 6: Store MD5 Hashes of Passwords |  |
+| Guideline 6: Store SHA512 Hashes of Passwords | Hash passwords when storing them inside databases, do not store as plain text |
 
 **Interface Design Guidelines**
 
 | Guideline | Description |
 | :--- | :--- |
-| Guideline 7: Use Web-Safe Colours |  |
-| Guideline 8: Place Menu in the Top Right Corner |  |
+| Guideline 7: Use Web-Safe Colours | Use the web safe colour pallete \(256 colours\) because they are displayed on major browsers in a consistent way |
+| Guideline 8: Place Menu in the Top Right Corner | The main navigation menu should be placed in the top right corner of web pages |
 
 **Secure Coding Guidelines**
 
 | Guideline | Description |
 | :--- | :--- |
-| Guideline 9: Initialize Variables to Safe Defaults |  |
-| Guideline 10: Validate All Incoming Data |  |
+| Guideline 9: Initialize Variables to Safe Defaults | Initialize variables to safe default values \(zero for numeric types, false for boolean, null for other types\) |
+| Guideline 10: Validate All Incoming Data | Ensure that all data which comes from external sources is validated before being processed |
 
 ### References
 
