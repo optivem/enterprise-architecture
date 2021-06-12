@@ -16,9 +16,9 @@ Generic reusable solutions to commonly occurring problems in the design of IT sy
 
 ### Example
 
-* Description: Simple Failover Cluster
-* Applicability: 
-* Rationale: 
+* Description: Simple Failover Cluster ensures that when a node fails within a cluster, then another node takes over in providing the service
+* Applicability: Used in situations when we need to ensure high availaiblity of processing, typically for critical business applications
+* Rationale: Ensures the availability and scalability of applications
 
 ### References
 
