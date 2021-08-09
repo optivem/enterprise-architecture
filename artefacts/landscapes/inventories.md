@@ -2,11 +2,7 @@
 
 Structured catalogs of currently available IT assets describing their essential properties and features
 
-{% hint style="info" %}
-TODO: Update image below
-{% endhint %}
-
-![](../../.gitbook/assets/csvlod_landscapes_inventories.png)
+![](../../.gitbook/assets/5b_inventories.jpg)
 
 ### References
 
