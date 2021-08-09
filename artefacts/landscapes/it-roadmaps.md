@@ -2,9 +2,9 @@
 
 Structured graphical views of all planned IT initiatives of a purely technical nature having no visible business impact
 
-{% hint style="info" %}
-TODO: Update image below
-{% endhint %}
+![](../../.gitbook/assets/5d_it-roadmaps.jpg)
+
+
 
 ### References
 
